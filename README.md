@@ -14,4 +14,6 @@ Welcome to the Movie Recommender Web App repository! This Streamlit-based web ap
 - **Python**: Development language for the application.
 
 ## Output Screenshots Below:
+![Output Screenshot](https://github.com/AI-With-Sajid/-Movie-Recommendation-System/raw/main/output1.png)
+![Output Screenshot](https://github.com/AI-With-Sajid/-Movie-Recommendation-System/raw/main/output2.png)
 
