@@ -12,3 +12,6 @@ Welcome to the Movie Recommender Web App repository! This Streamlit-based web ap
 - **Streamlit**: Used to build the interactive web application.
 - **Cosine Similarity**: Calculates movie similarity based on content features.
 - **Python**: Development language for the application.
+
+## Output Screenshots Below:
+
